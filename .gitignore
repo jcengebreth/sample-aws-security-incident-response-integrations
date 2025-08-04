@@ -3,6 +3,9 @@ node_modules
 package.json
 package-lock.json
 
+# Local tool versions
+.tool-versions
+
 # Python cache and compiled files
 __pycache__/
 *.py[cod]
